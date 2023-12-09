@@ -14,3 +14,4 @@ mainly a collection of homepages that reflect minimalistic and brutalistic desig
 - https://bt.ht/ -> this is an absolute killer: https://git.sr.ht/~bt/bt.ht/tree
 - https://1kb.club/
 - https://korayer.de/ -> this dud writin in pure txt files
+- https://ssgit.bt.ht/ -> whaaat ?! an ssg for pure git repos? might try that one too
