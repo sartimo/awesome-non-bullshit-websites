@@ -15,3 +15,4 @@ mainly a collection of homepages that reflect minimalistic and brutalistic desig
 - https://1kb.club/
 - https://korayer.de/ -> this dud writin in pure txt files
 - https://ssgit.bt.ht/ -> whaaat ?! an ssg for pure git repos? might try that one too
+- https://xhtml.club/members.html -> all of these are legends
