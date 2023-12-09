@@ -4,6 +4,7 @@ mainly a collection of homepages that reflect minimalistic and brutalistic desig
 
 - https://sartimo.github.io
 - https://t0.vc
+- https://ggml.ai
 - https://wittallen.net
 - https://nat.org
 - https://bearblog.dev/
